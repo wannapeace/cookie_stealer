@@ -1,1 +1,5 @@
-<?php include(“index1.html”); ?>
+<?php include(“index1.html”);
+echo 'h2';
+
+
+?>
